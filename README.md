@@ -7,6 +7,3 @@
   <img height= "400" src="https://github.com/Ca-byte/animation.js/blob/main/my-sketches/output/04/2021.10.27-14.44.16.gif" alt="agents sketch noice">
 </p>
 
-<p float= "right">
-  
-</p>
